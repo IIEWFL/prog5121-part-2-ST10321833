@@ -1,0 +1,13 @@
+Java string - javatpoint (no date) www.javatpoint.com. Available at: https://www.javatpoint.com/java-string (Accessed: 09 June 2023).
+
+Hartman, J. (2023) Java string manipulation: Functions and methods with example, Guru99. Available at: https://www.guru99.com/java-strings.html (Accessed: 09 June 2023). 
+
+Loops in java: Java for loop (syntax, program, example) - javatpoint (no date) www.javatpoint.com. Available at: https://www.javatpoint.com/java-for-loop (Accessed: 09 June 2023). 
+
+Java for loop (no date) Programiz. Available at: https://www.programiz.com/java-programming/for-loop (Accessed: 09 June 2023). 
+
+(No date a) Programiz. Available at: https://www.programiz.com/java-programming/for-loop (Accessed: 09 June 2023). 
+
+(No date a) Google search. Google. Available at: https://www.google.com/search?q=creating%2Band%2Bworking%2Bwith%2Bloops%2Bjava&amp;sxsrf=APwXEdd_QtS66YwBKnB-i55O9YGzYK4Zow%3A1686312393005&amp;source=lnms&amp;tbm=vid&amp;sa=X&amp;ved=2ahUKEwiLgqmZk7b_AhWEilwKHfMVAEAQ_AUoAXoECAEQAw&amp;biw=1280&amp;bih=577&amp;dpr=1.5#fpstate=ive&amp;vld=cid:7a19a459,vid:hs45eeZ326U (Accessed: 09 June 2023). 
+
+(2023) GeeksforGeeks. GeeksforGeeks. Available at: https://www.geeksforgeeks.org/java-do-while-loop-with-examples/ (Accessed: 09 June 2023). 
